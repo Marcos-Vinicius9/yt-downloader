@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+img{
+    max-width: 100%;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+
+/* ================= RESETS ============================== */
