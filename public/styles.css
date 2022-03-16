@@ -19,18 +19,18 @@ body,html{
 
 body{
     font-family: 'Lato', sans-serif;
-    background:#68E4FF;
 }
 a{
     display: inline-block;
-    color: black;
+    color: white;
     text-transform: uppercase;
 }
+
 
 header{
     width: 100%;
     height: 80px;
-    border: 1px solid gray;
+    background-color: #00275C;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -44,6 +44,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    background:#FFFFFF;
+
 }
 
 form{
